@@ -11,5 +11,5 @@ class InnerClass:
 	#member variables
 	var another = 100
 	
-	func getA():
-		return a
+	func getAnother():
+		return another
