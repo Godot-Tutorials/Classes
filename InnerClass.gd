@@ -4,7 +4,7 @@ extends Node
 var object = InnerClass.new()
 
 func _ready():
-	var getInnerValue = object.getA()
+	var getInnerValue = object.getAnother()
 	print(getInnerValue)
 
 class InnerClass:
